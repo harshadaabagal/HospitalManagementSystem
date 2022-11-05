@@ -1,5 +1,4 @@
-# Bagal_Harshada_002913267_Assignment2
- HospitalManagement
+
 # Bagal_Harshada_002913267_Assignment2
  HospitalManagement
  
